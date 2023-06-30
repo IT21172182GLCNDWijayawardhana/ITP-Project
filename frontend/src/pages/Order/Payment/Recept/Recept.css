@@ -1,0 +1,34 @@
+.crd {
+  width: 80vh;
+  height: 100vh;
+  position: relative;
+  left: 60vh;
+}
+.invoice {
+  background-image: url(./invoice.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.inovicetext {
+  text-align: center;
+  color: cornflowerblue;
+}
+.btn1 {
+  position: relative;
+  left: 60vh;
+}
+.btn2 {
+  position: relative;
+}
+.invoicetext1 {
+  position: relative;
+  text-align: center;
+}
+table {
+}
+.hd2 {
+  text-align: center; /* Center the header text */
+}
+.recept table invoice table-hover earning-box {
+  margin: 0vh;
+}

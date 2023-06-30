@@ -1,0 +1,27 @@
+.table {
+  width: 60%;
+  position: absolute;
+  left: 300px;
+  bottom: 200px;
+  margin-left: 20px;
+  float: left;
+}
+
+.card {
+  float: right;
+  width: 350px;
+  position: absolute;
+  left: 1100px;
+  top: 185px;
+}
+.search {
+  width: 300px;
+  position: relative;
+  left: 300px;
+}
+.body .table {
+  background-color: aliceblue;
+  position: absolute;
+  top: 200px;
+  left: 100px;
+}
